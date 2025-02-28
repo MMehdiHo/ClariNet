@@ -1,0 +1,6 @@
+data_path: "/home/alism/projects/dr/data"
+model_path: "/home/alism/projects/dr/output_dataset/"
+image_size: [512, 512]
+num_classes: 5
+batch_size: 32
+epochs: 60
