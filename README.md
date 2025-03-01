@@ -48,18 +48,6 @@ We evaluated our method on two distinct histopathology datasets:
 - Accuracy: 95.1% (±0.7) | Precision: 95.4% (±0.6)  
 
 ---
-
-## 📜 Citation
-If you find this work useful, please cite our paper:
-
-```bibtex
-@article{hosseini2025clarinet,
-  title={ClariNet: Clarifying Histopathological Subtypes with Fuzzy Coverage Deep Ensemble Learning},
-  author={Mohammad Mehdi Hosseini and Meghdad Sabouri Rad and Junze Huang and Rakesh Choudhary and Harmen Seizen and Ola El-Zammar and Saverio J. Carello and Michel Nasr and Bardia Yousefi Rodd},
-  journal={Under Review},
-  year={2025}
-}
-
 # Data Balancing Script
 
 This script balances a dataset by selecting images from different folders.
@@ -90,3 +78,15 @@ python src/model_training.py
 
 ## 📜 License
 This project is licensed under the MIT License.
+---
+## 📜 Citation
+If you find this work useful, please cite our paper:
+
+```bibtex
+@article{hosseini2025clarinet,
+  title={ClariNet: Clarifying Histopathological Subtypes with Fuzzy Coverage Deep Ensemble Learning},
+  author={Mohammad Mehdi Hosseini and Meghdad Sabouri Rad and Junze Huang and Rakesh Choudhary and Harmen Seizen and Ola El-Zammar and Saverio J. Carello and Michel Nasr and Bardia Yousefi Rodd},
+  journal={Under Review},
+  year={2025}
+}
+
